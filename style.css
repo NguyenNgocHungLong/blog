@@ -1,0 +1,9 @@
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 280px;
+    /* use @media when screen is small */
+    background-color: purple;
+}

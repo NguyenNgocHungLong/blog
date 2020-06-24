@@ -1,0 +1,9 @@
+Navbar:
+
+Home:
+Projects
+About me
+Contact
+
+OR
+Just 1 page block.... -> that would be better
